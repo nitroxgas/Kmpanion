@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Android\Kompanion\Kompanion\build\intermediates\pre-dexed\debug\support-v4-19.0.1-93cb5e2f6460ce367edf1fdd78d1b85555f9c927.jar"
+        jar="C:\Users\George Silva\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\pre-dexed\debug\classes-6fbbb1160007bd3e5c0338273bed59e24ba4b678.jar"
+        jar="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\pre-dexed\debug\classes-2852c9f8c7c35d4a4f1af0622574f55841e3253f.jar"
+        jar="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\exploded-aar\com.google.android.support\wearable\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45"/>
+    <item
+        dex="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\pre-dexed\debug\classes-eaa8f8cd0cf5c342abd424f8d9265663bbd6d4d6.jar"
+        jar="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\5.0.77\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="80a6f6f2d0dfcfae8c424cf81dcdf7157e7bf4b8"/>
+    <item
+        dex="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\pre-dexed\debug\classes-d67025487363ed9a47c08ddf33dad4c59db11e98.jar"
+        jar="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\Kompanion\build\intermediates\pre-dexed\debug\classes-ed59083f19ce8566d52ca09f4b03e340f4699b9f.jar"
+        jar="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\Kompanion\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+    <item
+        dex="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-927b5bb7e6c55d0be2866c4845e1206b05bafc71.jar"
+        jar="C:\Users\George Silva\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-2d0451a8e332ec69be02bf1f3958b90648e91fc4.jar"
+        jar="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="C:\Android\Kompanion\Kompanion\build\intermediates\pre-dexed\debug\classes-9632c0aaf477bacc331d717f2a9de343b43e0013.jar"
+        jar="C:\Android\Kompanion\Kompanion\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+    <item
+        dex="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-aa7ecc4abb38c6a491784c74458e8b55d60e0bef.jar"
+        jar="C:\Users\George Silva\GoogleDriveTRT\Android\Kompanion\wKompanion\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
